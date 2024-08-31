@@ -6,6 +6,7 @@
     outline: none;
 }
 
+
 body {
     background-size: cover;
     background: linear-gradient(#ffffff, #19709b);
@@ -19,6 +20,7 @@ body {
 
 }
 
+
 .container {
     padding: 0;
     background-color: #ffffff;
@@ -29,10 +31,18 @@ body {
 
 }
 
+
 button {
     padding: 10px;
     font-size: 50px;
     cursor: pointer;
     border: none;
     border: radius 10px;
+}
+
+.Criação {
+    margin: 10px;
+    padding: 10px;
+    justify-items:
+
 }
